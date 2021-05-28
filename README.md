@@ -1,7 +1,6 @@
 ## Hi there 👋    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeDiary18%2Fhit-counter&count_bg=%23CC83FF&title_bg=%234B18AD&icon=icq.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### This is CodeDiary18's GitHub
-- 📫 How to reach me: codediary18@gmail.com
-
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:codediary18@gmail.com)
 <!--
 **CodeDiary18/CodeDiary18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
