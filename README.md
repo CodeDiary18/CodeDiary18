@@ -1,7 +1,8 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20CodeDiary18's%20GitHub!&descAlignY=60&descAlign=62"/></div>
 
 <h3 align="center">💻 My Github Stats 💻</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CodeDiary18&show_icons=true&count_private=true&hide=issues"></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeDiary18&show_icons=true&count_private=true&hide=issues"></p>
+
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
 <p align="center"><a href="https://computer-science-student.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
