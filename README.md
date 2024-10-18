@@ -6,6 +6,7 @@
 <br>
 <h3 align="center">😊 My Blog 😊</h3>
 <p align="center"><a href="https://computer-science-student.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
+<p align="center"><a href="https://kang18.notion.site/CodeDiary18-s-Dev-Note-4337a9dcea714e3291ca1a71f219c68b"><img src="https://img.shields.io/badge/Notion-607078?style=flat-square&logo=Notion&logoColor=white"/></a></p>
 <br>
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
